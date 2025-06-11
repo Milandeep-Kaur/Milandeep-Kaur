@@ -25,6 +25,6 @@ With a solid foundation in web technologies like HTML, CSS, JavaScript, PHP, MyS
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milandeep-kaur&show_icons=true&locale=en&layout=compact" alt="milandeep-kaur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milandeep-kaur&show_icons=true&locale=en" alt="milandeep-kaur" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milandeep-kaur&" alt="milandeep-kaur" /></p>
