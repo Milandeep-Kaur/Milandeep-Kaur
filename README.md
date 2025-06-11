@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Milandeep Kaur</h1>
 <h3 align="center">Front-End & Back-End Builder | HTML • CSS • MERN • PHP • MySQL</h3>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Z2anB2bXEwMTFscTdwMXlpdnV6NTBreXB0czlrMngyMDA0d2k0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" alt="web developer" width="400" />
+</p>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milandeep-kaur&label=Profile%20views&color=0e75b6&style=flat" alt="milandeep-kaur" /> </p>
